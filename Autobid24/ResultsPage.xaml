@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Autobid24.ResultsPage">
+    <ContentPage.Content>
+        <ScrollView>
+        <VerticalStackLayout Margin="0" Padding="0" >
+            
+            
+            <StackLayout class="navbar" Orientation="Horizontal" HorizontalOptions="Center" >
+
+                <!-- Logo -->
+                <ImageButton Source="autobidlogo.png" HeightRequest="60" WidthRequest="60" Margin="5,10, 0,10" Clicked="OnHomeClicked"/>
+
+                <!-- Suche -->
+                <Button Text="Suche" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnSearchClicked"/>
+
+                <!-- Verkaufen -->
+                <Button Text="Verkaufen" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnVerkaufClicked"/>
+
+                <!-- Account -->
+                <Button Text="Account" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" />
+                
+                <Button Text="Über uns" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnUnsClicked"/>
+                
+            </StackLayout>
+                <Line X1="0"
+                      Y1="0"
+                      X2="420"
+                      Y2="0"
+                      Stroke="black" />
+            
+                <Image Source="autobidlogo.png" WidthRequest="250" Margin="30" HorizontalOptions="Center"/>
+                <Label Text="168'424 Autos" Margin="30, 0"/>
+                <Picker Title="Sortierung" Margin="30,25"/>
+                
+                    <StackLayout Margin="30, 0,30,30" >
+                        <Border StrokeThickness="1" StrokeShape="RoundRectangle 10,10,10,10">
+                            <StackLayout>
+                                <Image Source="bmw4bild.png"></Image>
+                                <Label Text="BMW M8 xDrive M Competition" Margin="5"></Label>
+                                <Label Text="129'990" FontAttributes="Bold" Margin="5"></Label>
+                                <Button FontAttributes="Bold" Text="Mehr Erfahren" Margin="5" HorizontalOptions="Start" Clicked="OnMehrClicked" ></Button>
+                            </StackLayout>
+                        </Border>
+                    </StackLayout>
+                
+                <StackLayout Margin="30, 0,30,30" >
+                    <Border StrokeThickness="1" StrokeShape="RoundRectangle 10,10,10,10">
+                        <StackLayout>
+                            <Image Source="bmwbilder.png"></Image>
+                            <Label Text="BMW M8 xDrive Steptronic M Competition Sonderedition Einmalig" Margin="5"></Label>
+                            <Label Text="248'800" FontAttributes="Bold" Margin="5"></Label>
+                            <Button FontAttributes="Bold" Text="Mehr Erfahren" Margin="5" HorizontalOptions="Start" ></Button>
+                        </StackLayout>
+                    </Border>
+                </StackLayout>
+                
+                <StackLayout Margin="30, 0,30,30" >
+                    <Border StrokeThickness="1" StrokeShape="RoundRectangle 10,10,10,10">
+                        <StackLayout>
+                            <Image Source="bmwbild.png"></Image>
+                            <Label Text="BMW M8 xDrive Competition Edition Pit-Lane Steptronic" Margin="5"></Label>
+                            <Label Text="143'990" FontAttributes="Bold" Margin="5"></Label>
+                            <Button FontAttributes="Bold" Text="Mehr Erfahren" Margin="5" HorizontalOptions="Start" ></Button>
+                        </StackLayout>
+                    </Border>
+                </StackLayout>
+               
+        </VerticalStackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

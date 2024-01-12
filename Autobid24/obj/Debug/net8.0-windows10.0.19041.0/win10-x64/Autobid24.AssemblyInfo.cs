@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Autobid24")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c3373410872a19a8d54a8a180908b3d8ff340c17")]
 [assembly: System.Reflection.AssemblyProductAttribute("Autobid24")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Autobid24")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

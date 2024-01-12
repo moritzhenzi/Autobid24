@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Autobid24.CarPage">
+    <ContentPage.Content>
+        <ScrollView>
+        <VerticalStackLayout Margin="0" Padding="0" >
+            
+            
+            <StackLayout class="navbar" Orientation="Horizontal" HorizontalOptions="Center" >
+
+                <!-- Logo -->
+                <ImageButton Source="autobidlogo.png" HeightRequest="60" WidthRequest="60" Margin="5,10, 0,10" Clicked="OnHomeClicked"/>
+
+                <!-- Suche -->
+                <Button Text="Suche" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" />
+
+                <!-- Verkaufen -->
+                <Button Text="Verkaufen" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White"/>
+
+                <!-- Account -->
+                <Button Text="Account" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White"/>
+                
+                <Button Text="Über uns" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" />
+                
+            </StackLayout>
+                <Line X1="0"
+                      Y1="0"
+                      X2="420"
+                      Y2="0"
+                      Stroke="black" />
+            
+                <Image Source="autobidlogo.png" WidthRequest="250" Margin="30" HorizontalOptions="Center"/>
+                    <StackLayout Margin="30, 0,30,30" >
+                            <StackLayout>
+                                <CarouselView x:Name="carouselView">
+                                    <CarouselView.ItemTemplate>
+                                        <DataTemplate>
+                                            <Image Source="{Binding}" Aspect="AspectFill" />
+                                        </DataTemplate>
+                                    </CarouselView.ItemTemplate>
+                                </CarouselView>
+                                <Label Text="BMW M8 xDrive M Competition" Margin="5" HorizontalOptions="Center"></Label>
+                                <HorizontalStackLayout HorizontalOptions="Center">
+                                    <Label Text="129'990" FontAttributes="Bold" Margin="5" HorizontalOptions="Center" VerticalOptions="Center"/>
+                                    <Button BackgroundColor="Yellow" HorizontalOptions="Center" Text="Bieten" TextColor="Black"/>
+                                </HorizontalStackLayout>
+                                <Label Text="Fahrzeugdaten" FontAttributes="Bold" FontSize="30" Margin="0,25,0,10"/>
+                                <Image Source="bmwdetails.png" HorizontalOptions="Start"/>
+                            </StackLayout>
+                    </StackLayout>
+        </VerticalStackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

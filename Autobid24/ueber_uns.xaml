@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Autobid24.ueber_uns">
+    <ContentPage.Content>
+        <ScrollView>
+               <VerticalStackLayout>
+                      <StackLayout class="navbar" Orientation="Horizontal" HorizontalOptions="Center" >
+
+                             <!-- Logo -->
+                             <ImageButton Source="autobidlogo.png" HeightRequest="60" WidthRequest="60" Margin="5,10, 0,10" Clicked="OnHomeClicked"/>
+
+                             <!-- Suche -->
+                             <Button Text="Suche" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnSearchClicked"/>
+
+                             <!-- Verkaufen -->
+                             <Button Text="Verkaufen" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnVerkaufClicked"/>
+
+                             <!-- Account -->
+                             <Button Text="Account" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White"/>
+                
+                             <Button Text="Über uns" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" />
+                
+                      </StackLayout>
+                     
+                      <Line X1="0"
+                            Y1="0"
+                            X2="420"
+                            Y2="0"
+                            Stroke="black"/>    
+               <StackLayout Padding="20">
+                      
+                      <Label Text="Impressum"
+                             FontSize="Title"
+                             HorizontalOptions="CenterAndExpand"
+                             Margin="0,20,0,20"/>
+
+            <Label Text="Verantwortlich für den Inhalt:"
+                   FontSize="Subtitle"
+                   Margin="0,0,0,5"/>
+            <Label Text="Autobid24
+                         Musterstraße 123
+                         CH-8000 Zürich
+                         Schweiz"
+                   FontSize="Body"/>
+
+            <Label Text="Kontakt:"
+                   FontSize="Subtitle"
+                   Margin="0,20,0,5"/>
+            <Label Text="E-Mail: info@autobid24.com
+                         Telefon: +41 (0) 12 345 67 89"
+                   FontSize="Body"/>
+
+            <Label Text="Vertretungsberechtigter:"
+                   FontSize="Subtitle"
+                   Margin="0,20,0,5"/>
+            <Label Text="Max Mustermann, Geschäftsführer"
+                   FontSize="Body"/>
+
+            <Label Text="Handelsregister:"
+                   FontSize="Subtitle"
+                   Margin="0,20,0,5"/>
+            <Label Text="Handelsregisteramt Zürich
+                         Registernummer: CH-123456789"
+                   FontSize="Body"/>
+
+            <Label Text="Umsatzsteuer-Identifikationsnummer:"
+                   FontSize="Subtitle"
+                   Margin="0,20,0,5"/>
+            <Label Text="CHE-123.456.789 MWST"
+                   FontSize="Body"/>
+
+            <Label Text="Haftungshinweis:"
+                   FontSize="Subtitle"
+                   Margin="0,20,0,5"/>
+            <Label Text="Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich."
+                   FontSize="Body"/>
+
+            <Label Text="Design und Umsetzung:"
+                   FontSize="Subtitle"
+                   Margin="0,20,0,5"/>
+            <Label Text="Autobid24 Design Team
+                         Musterstraße 123
+                         CH-8000 Zürich
+                         Schweiz"
+                   FontSize="Body"/>
+        </StackLayout></VerticalStackLayout>
+    </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -41,6 +41,10 @@
     <ItemGroup>
         <!-- App Icon -->
         <MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#512BD4"/>
+        <MauiImage Include="Resources\Images\Bmw_M8_Bilder\bmw1bild.png" />
+        <MauiImage Include="Resources\Images\Bmw_M8_Bilder\bmw2bild.png" />
+        <MauiImage Include="Resources\Images\Bmw_M8_Bilder\bmw3bild.png" />
+        <MauiImage Include="Resources\Images\Bmw_M8_Bilder\bmw4bild.png" />
 
         <!-- Splash Screen -->
         <MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#512BD4" BaseSize="128,128"/>

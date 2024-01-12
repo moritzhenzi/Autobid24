@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Autobid24.VerkaufPage">
+    <ContentPage.Content>
+        <VerticalStackLayout>
+        <StackLayout class="navbar" Orientation="Horizontal" HorizontalOptions="Center" >
+
+            <!-- Logo -->
+            <ImageButton Source="autobidlogo.png" HeightRequest="60" WidthRequest="60" Margin="5,10, 0,10" Clicked="OnHomeClicked"/>
+
+            <!-- Suche -->
+            <Button Text="Suche" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnSearchClicked"/>
+
+            <!-- Verkaufen -->
+            <Button Text="Verkaufen" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" />
+
+            <!-- Account -->
+            <Button Text="Account" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White"/>
+                
+            <Button Text="Über uns" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnUnsClicked"/>
+                
+        </StackLayout>
+            <Line X1="0"
+                  Y1="0"
+                  X2="420"
+                  Y2="0"
+                  Stroke="black"/> 
+            
+            <Label Text="Verkaufen" FontAttributes="Bold" FontSize="30" HorizontalOptions="Center" Margin="0,20,0,0"/>
+            <Entry Placeholder="Marke" Margin="25,20"/>
+            <Entry Placeholder="Modell" Margin="25,20"/>
+            <Entry Placeholder="Preis" Margin="25,20"/>
+            <Button Text="Verkaufen" Margin="25" BackgroundColor="Yellow" TextColor="Black"/>
+        </VerticalStackLayout>
+    </ContentPage.Content>
+</ContentPage>

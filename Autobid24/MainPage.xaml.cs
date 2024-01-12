@@ -13,20 +13,12 @@ namespace Autobid24
 
         private void OnSearchClicked(object sender, EventArgs e)
         {
-            // Implementiere die Logik für die Suche
-            DisplayAlert("Info", "Search button clicked!", "OK");
+            App.Current.MainPage = new SearchPage();
         }
-
-        private void OnSellClicked(object sender, EventArgs e)
+        
+        private void OnUnsClicked(object sender, EventArgs e)
         {
-            // Implementiere die Logik für das Verkaufen
-            DisplayAlert("Info", "Sell button clicked!", "OK");
-        }
-
-        private void OnAccountClicked(object sender, EventArgs e)
-        {
-            // Implementiere die Logik für den Account
-            DisplayAlert("Info", "Account button clicked!", "OK");
+            App.Current.MainPage = new ueber_uns();
         }
 
         private void OnSubscribeClicked(object sender, EventArgs e)
@@ -55,6 +47,29 @@ namespace Autobid24
             {
                 return false;
             }
+        }
+        
+        private void OnVerkaufClicked(object sender, EventArgs e)
+        {
+            App.Current.MainPage = new VerkaufPage();
+        }
+        
+        private void OnHomeClicked(object sender, EventArgs e)
+        {
+            App.Current.MainPage = new MainPage();
+        }
+        private void OnACCClicked(object sender, EventArgs e)
+        {
+            App.Current.MainPage = new AccountPage();
+        }
+        
+        private void oninfoclicked(object sender, EventArgs e)
+        {
+            App.Current.MainPage = new Infopage();
+        }
+        private void onFAQClicked(object sender, EventArgs e)
+        {
+            App.Current.MainPage = new FAQPage();
         }
 
     }

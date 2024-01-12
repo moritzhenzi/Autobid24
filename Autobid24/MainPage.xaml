@@ -2,65 +2,80 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Autobid24.MainPage">
-    <ContentPage.Resources>
-        <StyleSheet Source="Resources/Styles/style.css" />
-    </ContentPage.Resources>
-    
-
     <ScrollView>
-        <VerticalStackLayout Padding="0,0" Spacing="25" >
+        <VerticalStackLayout Padding="0,0" Spacing="0" >
             <!-- Navbar -->
-            <StackLayout class="navbar" Orientation="Horizontal">
+            <StackLayout class="navbar" Orientation="Horizontal" HorizontalOptions="Center" >
+
                 <!-- Logo -->
-                <Image Source="logo.png" HeightRequest="30" WidthRequest="30" />
+                <ImageButton Source="autobidlogo.png" HeightRequest="60" WidthRequest="60" Margin="5,10, 0,10" Clicked="OnHomeClicked"/>
 
                 <!-- Suche -->
-                <Button Text="Suche" Clicked="OnSearchClicked" />
+                <Button Text="Suche" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnSearchClicked"/>
 
                 <!-- Verkaufen -->
-                <Button Text="Verkaufen" Clicked="OnSellClicked" />
+                <Button Text="Verkaufen" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnVerkaufClicked"/>
 
                 <!-- Account -->
-                <Button Text="Account" Clicked="OnAccountClicked" />
+                <Button Text="Account" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnACCClicked"/>
+                
+                <Button Text="Über uns" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnUnsClicked"/>
+                
             </StackLayout>
+            <Line X1="0"
+                  Y1="0"
+                  X2="420"
+                  Y2="0"
+                  Stroke="black" />
 
             <!-- Centered Logo -->
-            <Image Source="logo.png" HeightRequest="150" WidthRequest="150"
-                   VerticalOptions="Center" HorizontalOptions="CenterAndExpand" />
-
+            
+            <Image Source="autobidlogo.png" WidthRequest="250" Margin="30" HorizontalOptions="Center"/>
+           
             <!-- Two Columns of Text -->
-            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
-                <Label Text="Text Column 1" />
-                <Label Text="Text Column 2" />
+            <StackLayout Orientation="Vertical" >
+                <Label Text="Suchen Sie in 168'424 Fahrzeugen" HorizontalOptions="Center" FontAttributes="Bold" FontSize="20"/>
+                <Label Text="Auf dem grössten Automarkt der schweiz" HorizontalOptions="Center"/>
             </StackLayout>
 
             <!-- Centered Image -->
-            <Image Source="logo.png" HeightRequest="100" WidthRequest="100"
-                   VerticalOptions="Center" HorizontalOptions="CenterAndExpand" />
+            <Image Source="mercedes.png" WidthRequest="300" Margin="30"/>
 
             <!-- Top-Marken Section -->
             <StackLayout>
-                <Label Text="Top-Marken" HorizontalOptions="CenterAndExpand" />
+                <Label Text="Top-Marken" HorizontalOptions="CenterAndExpand" FontSize="25" FontAttributes="Bold"/>
 
                 <!-- Two Boxes with Images and Names -->
                 <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
-                    <Image Source="logo.png" HeightRequest="50" WidthRequest="50" />
-                    <Label Text="Brand 1" />
-
-                    <Image Source="logo.png" HeightRequest="50" WidthRequest="50" />
-                    <Label Text="Brand 2" />
+                    <Frame Margin="15" BackgroundColor="LightGray">
+                        <StackLayout>
+                            <Image Source="audilogo.png" HeightRequest="50" WidthRequest="50" />
+                            <Label Text="Audi" HorizontalOptions="Center"/>
+                        </StackLayout>
+                    </Frame>
+                    <Frame Margin="15" BackgroundColor="LightGray">
+                        <StackLayout>
+                            <Image Source="fordlogo.png" HeightRequest="50" WidthRequest="50" />
+                            <Label Text="Ford" HorizontalOptions="Center"/>
+                        </StackLayout>
+                    </Frame>
                 </StackLayout>
             </StackLayout>
 
             <!-- Newsletter Section -->
-            <StackLayout>
-                <Label Text="Newsletter" HorizontalOptions="CenterAndExpand" />
+            <StackLayout Margin="20">
+                <Label Text="Newsletter" HorizontalOptions="CenterAndExpand" FontAttributes="Bold" FontSize="25"/>
 
                 <!-- Email Input -->
                 <Entry x:Name="EmailEntry" Placeholder="Email Address" />
 
                 <!-- Subscribe Button -->
-                <Button Text="Subscribe" Clicked="OnSubscribeClicked" />
+                <Button Text="Abonnieren" Clicked="OnSubscribeClicked" BackgroundColor="Yellow" TextColor="Black"/>
+                
+                <HorizontalStackLayout HorizontalOptions="Center" Margin="20" VerticalOptions="End">
+                    <Button Text="FAQ Page" Clicked="onFAQClicked" Margin="15,0" BackgroundColor="Yellow" TextColor="Black"/>
+                    <Button Text="Infoseite" Clicked="oninfoclicked" Margin="15,0" BackgroundColor="Yellow" TextColor="Black"/>
+                </HorizontalStackLayout>
             </StackLayout>
         </VerticalStackLayout>
     </ScrollView>

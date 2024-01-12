@@ -1,4 +1,15 @@
-﻿obj\Debug\net8.0-android\resizetizer\r\drawable\logo.png
+﻿obj\Debug\net8.0-android\resizetizer\r\drawable\audilogo.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\autobidlogo.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\bmw1bild.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\bmw2bild.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\bmw3bild.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\bmw4bild.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\bmwbild.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\bmwbilder.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\bmwdetails.PNG
+obj\Debug\net8.0-android\resizetizer\r\drawable\fordlogo.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\logo.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\mercedes.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 obj\Debug\net8.0-android\resizetizer\r\mipmap-hdpi\appicon.png

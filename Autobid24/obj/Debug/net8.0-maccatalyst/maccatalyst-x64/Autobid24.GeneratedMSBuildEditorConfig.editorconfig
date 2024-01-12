@@ -16,6 +16,12 @@ build_property.ProjectDir = D:\Maui_Schule\Autobid24\Autobid24\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
+[D:/Maui_Schule/Autobid24/Autobid24/AccountPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Autobid24.AccountPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AccountPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AccountPage.xaml
+
 [D:/Maui_Schule/Autobid24/Autobid24/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Autobid24.App.xaml
@@ -27,6 +33,24 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Autobid24.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Maui_Schule/Autobid24/Autobid24/CarPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Autobid24.CarPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CarPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CarPage.xaml
+
+[D:/Maui_Schule/Autobid24/Autobid24/FAQPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Autobid24.FAQPage.xaml
+build_metadata.AdditionalFiles.TargetPath = FAQPage.xaml
+build_metadata.AdditionalFiles.RelativePath = FAQPage.xaml
+
+[D:/Maui_Schule/Autobid24/Autobid24/Infopage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Autobid24.Infopage.xaml
+build_metadata.AdditionalFiles.TargetPath = Infopage.xaml
+build_metadata.AdditionalFiles.RelativePath = Infopage.xaml
 
 [D:/Maui_Schule/Autobid24/Autobid24/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -46,8 +70,26 @@ build_metadata.AdditionalFiles.ManifestResourceName = Autobid24.Resources.Styles
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[D:/Maui_Schule/Autobid24/Autobid24/Resources/Styles/style.css]
-build_metadata.AdditionalFiles.GenKind = Css
-build_metadata.AdditionalFiles.ManifestResourceName = Autobid24.Resources.Styles.style.css
-build_metadata.AdditionalFiles.TargetPath = Resources\Styles\style.css
-build_metadata.AdditionalFiles.RelativePath = Resources\Styles\style.css
+[D:/Maui_Schule/Autobid24/Autobid24/ResultsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Autobid24.ResultsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ResultsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ResultsPage.xaml
+
+[D:/Maui_Schule/Autobid24/Autobid24/SearchPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Autobid24.SearchPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SearchPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SearchPage.xaml
+
+[D:/Maui_Schule/Autobid24/Autobid24/ueber_uns.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Autobid24.ueber_uns.xaml
+build_metadata.AdditionalFiles.TargetPath = ueber_uns.xaml
+build_metadata.AdditionalFiles.RelativePath = ueber_uns.xaml
+
+[D:/Maui_Schule/Autobid24/Autobid24/VerkaufPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Autobid24.VerkaufPage.xaml
+build_metadata.AdditionalFiles.TargetPath = VerkaufPage.xaml
+build_metadata.AdditionalFiles.RelativePath = VerkaufPage.xaml

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Autobid24.FAQPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <VerticalStackLayout>
+            <StackLayout class="navbar" Orientation="Horizontal" HorizontalOptions="Center" >
+                <ImageButton Source="autobidlogo.png" HeightRequest="60" WidthRequest="60" Margin="5,10, 0,10" Clicked="OnHomeClicked"/>
+
+               
+                <Button Text="Suche" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" />
+
+                
+                <Button Text="Verkaufen" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" />
+
+                
+                <Button Text="Account" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White"/>
+                
+                <Button Text="Über uns" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" />
+                
+            </StackLayout>
+                <Line X1="0"
+                                  Y1="0"
+                                  X2="420"
+                                  Y2="0"
+                                  Stroke="black" />
+            <StackLayout Margin="25">
+                
+                <Label Text="Frage 1: Was ist AutoBid24?" FontSize="18" FontAttributes="Bold" Margin="0,0,0,10"/>
+                <Label Text="Antwort 1: AutoBid24 ist eine Plattform für den automatisierten Autokauf und -verkauf. Sie ermöglicht es Benutzern, Fahrzeuge zu versteigern oder zu erwerben, indem sie ein automatisches Bietverfahren nutzen." Margin="0,0,0,20"/>
+                
+                <Label Text="Frage 2: Wie kann ich ein Auto bei AutoBid24 verkaufen?" FontSize="18" FontAttributes="Bold" Margin="0,0,0,10"/>
+                <Label Text="Antwort 2: Um ein Auto zu verkaufen, müssen Sie sich zunächst registrieren und Ihr Fahrzeug in das System eingeben. Das automatische Bietverfahren übernimmt dann den Rest, um den besten Preis für Ihr Auto zu erzielen." Margin="0,0,0,20"/>
+                
+                <Label Text="Frage 3: Wie kann ich an einer Auktion auf AutoBid24 teilnehmen?" FontSize="18" FontAttributes="Bold" Margin="0,0,0,10"/>
+                <Label Text="Antwort 3: Um an einer Auktion teilzunehmen, müssen Sie sich auf AutoBid24 anmelden und das gewünschte Fahrzeug auswählen. Geben Sie dann Ihr Höchstgebot ein, und das automatische Bietverfahren wird den Rest erledigen. Sie werden benachrichtigt, wenn Sie das höchste Gebot abgegeben haben." Margin="0,0,0,20"/>
+                
+                <Label Text="Frage 4: Wie sicher ist der Autokauf oder -verkauf auf AutoBid24?" FontSize="18" FontAttributes="Bold" Margin="0,0,0,10"/>
+                <Label Text="Antwort 4: Die Sicherheit der Transaktionen auf AutoBid24 ist uns wichtig. Wir implementieren fortschrittliche Sicherheitsmaßnahmen, um die Integrität des Bietverfahrens und die Vertraulichkeit der Benutzerdaten zu gewährleisten. Unsere Plattform entspricht den höchsten Sicherheitsstandards." Margin="0,0,0,20"/>
+
+                <Label Text="Frage 5: Kann ich mein Gebot während einer Auktion ändern?" FontSize="18" FontAttributes="Bold" Margin="0,0,0,10"/>
+                <Label Text="Antwort 5: Ja, Sie können Ihr Gebot während einer Auktion ändern. Klicken Sie einfach auf das gewünschte Fahrzeug und geben Sie Ihr neues Höchstgebot ein. Beachten Sie jedoch, dass es bestimmte Regeln und Zeitbeschränkungen für Gebotsänderungen geben kann." Margin="0,0,0,20"/>
+            </StackLayout>
+            </VerticalStackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Autobid24.Infopage">
+    <ContentPage.Content>
+        <VerticalStackLayout>
+      
+            <StackLayout class="navbar" Orientation="Horizontal" HorizontalOptions="Center" >
+
+                
+                <ImageButton Source="autobidlogo.png" HeightRequest="60" WidthRequest="60" Margin="5,10, 0,10" Clicked="OnHomeClicked"/>
+
+              
+                <Button Text="Suche" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White"/>
+
+            
+                <Button Text="Verkaufen" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White"/>
+
+             
+                <Button Text="Account" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White"/>
+                
+                <Button Text="Über uns" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" />
+                
+            </StackLayout>
+            <Line X1="0"
+                  Y1="0"
+                  X2="420"
+                  Y2="0"
+                  Stroke="black" />
+            
+            <StackLayout Margin="25">
+
+                <Label Text="Über AutoBid24" FontSize="24" FontAttributes="Bold" Margin="0,0,0,20"/>
+
+                <Label Text="AutoBid24 ist eine innovative Plattform für den automatisierten Autokauf und -verkauf. Unser Ziel ist es, den Prozess des Fahrzeughandels zu vereinfachen und transparenter zu gestalten. Mit modernster Technologie bieten wir eine sichere und effiziente Möglichkeit für Privatpersonen und Händler, ihre Fahrzeuge zu verkaufen oder zu erwerben." Margin="0,0,0,20"/>
+
+                <Label Text="Unsere Werte:" FontSize="18" FontAttributes="Bold" Margin="0,0,0,10"/>
+                <Label Text="Innovation: Wir setzen auf innovative Technologien, um den Autokauf und -verkauf zu revolutionieren." Margin="0,0,0,5"/>
+                <Label Text="Transparenz: Wir legen Wert auf Transparenz und Fairness in jedem Schritt des Handelsprozesses." Margin="0,0,0,5"/>
+                <Label Text="Kundenzufriedenheit: Die Zufriedenheit unserer Kunden steht bei uns an erster Stelle." Margin="0,0,0,20"/>
+
+                <Label Text="Kontakt:" FontSize="18" FontAttributes="Bold" Margin="0,0,0,10"/>
+                <Label Text="Adresse: Musterstraße 123, 12345 Musterstadt" Margin="0,0,0,10"/>
+                <Label Text="E-Mail: info@autobid24.com" Margin="0,0,0,10"/>
+                <Label Text="Telefon: +123 456 789" Margin="0,0,0,20"/>
+
+
+            </StackLayout>
+            
+           </VerticalStackLayout>
+    </ContentPage.Content>
+</ContentPage>

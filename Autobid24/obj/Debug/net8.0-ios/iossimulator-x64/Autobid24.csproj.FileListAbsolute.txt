@@ -308,3 +308,15 @@ D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\Autobid
 D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\Autobid24.genruntimeconfig.cache
 D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\ref\Autobid24.dll
 D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\logo.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\Autobid24.sourcelink.json
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\autobidlogo.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\mercedes.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\fordlogo.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\audilogo.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\bmw3bild.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\bmw4bild.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\bmw1bild.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\bmw2bild.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\bmwbilder.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\bmwbild.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\bmwdetails.PNG

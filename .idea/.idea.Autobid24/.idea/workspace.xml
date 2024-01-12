@@ -10,7 +10,239 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93e0ab4a-fe2e-415b-82aa-0ab7e19a49fa" name="Changes" comment="" />
+    <list default="true" id="93e0ab4a-fe2e-415b-82aa-0ab7e19a49fa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Autobid24/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Autobid24/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/AppShell.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/AppShell.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/Autobid24.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/Autobid24.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/MainPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/MainPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/MainPage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/Resources/Styles/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-android/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-android/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-android/Autobid24.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-android/Autobid24.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-android/com.companyname.autobid24-Signed.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-android/com.companyname.autobid24-Signed.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-android/com.companyname.autobid24-Signed.apk.idsig" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-android/com.companyname.autobid24-Signed.apk.idsig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-android/com.companyname.autobid24.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-android/com.companyname.autobid24.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-ios/iossimulator-x64/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-ios/iossimulator-x64/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-ios/iossimulator-x64/Autobid24.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-ios/iossimulator-x64/Autobid24.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.build.appxrecipe" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.build.appxrecipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-windows10.0.19041.0/win10-x64/resources.pri" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/bin/Debug/net8.0-windows10.0.19041.0/win10-x64/resources.pri" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/Autobid24.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/_Microsoft.Android.Resource.Designer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/_Microsoft.Android.Resource.Designer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/Autobid24.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/Autobid24.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/Java.Interop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/Java.Interop.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/Mono.Android.Export.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/Mono.Android.Export.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/Mono.Android.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/Mono.Android.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/Mono.Android.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/Mono.Android.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/_Microsoft.Android.Resource.Designer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/_Microsoft.Android.Resource.Designer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/arm64-v8a/System.Private.CoreLib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/armeabi-v7a/System.Private.CoreLib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/x86/System.Private.CoreLib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/assets/x86_64/System.Private.CoreLib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/appcompat/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/appcompat/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/constraintlayout/widget/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/constraintlayout/widget/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/core/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/core/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/customview/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/customview/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/dynamicanimation/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/dynamicanimation/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/legacy/coreutils/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/legacy/coreutils/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/loader/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/loader/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/swiperefreshlayout/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/swiperefreshlayout/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/transition/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/transition/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/vectordrawable/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/vectordrawable/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/vectordrawable/animated/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/vectordrawable/animated/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/viewpager/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/viewpager/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/viewpager2/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/androidx/viewpager2/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/bumptech/glide/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/bumptech/glide/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$interpolator.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$interpolator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$mipmap.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$mipmap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$plurals.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$plurals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$xml.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/companyname/autobid24/R$xml.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/google/android/material/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/google/android/material/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/microsoft/maui/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes/com/microsoft/maui/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/classes2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/com.companyname.autobid24.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/com.companyname.autobid24.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/packaged_resources" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/bin/packaged_resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/compressed_assemblies.arm64-v8a.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/compressed_assemblies.arm64-v8a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/compressed_assemblies.armeabi-v7a.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/compressed_assemblies.armeabi-v7a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/compressed_assemblies.x86.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/compressed_assemblies.x86.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/environment.arm64-v8a.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/environment.arm64-v8a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/environment.armeabi-v7a.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/environment.armeabi-v7a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/environment.x86.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/environment.x86.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/environment.x86_64.ll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/environment.x86_64.ll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/environment.x86_64.o" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/environment.x86_64.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/jni_remap.arm64-v8a.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/jni_remap.arm64-v8a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/jni_remap.armeabi-v7a.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/jni_remap.armeabi-v7a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/jni_remap.x86.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/jni_remap.x86.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/marshal_methods.arm64-v8a.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/marshal_methods.arm64-v8a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/marshal_methods.armeabi-v7a.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/marshal_methods.armeabi-v7a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/marshal_methods.x86.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/marshal_methods.x86.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/marshal_methods.x86_64.ll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/marshal_methods.x86_64.ll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/marshal_methods.x86_64.o" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/marshal_methods.x86_64.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/appcompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/constraintlayout/widget/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/constraintlayout/widget/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/core/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/core/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/customview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/customview/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/dynamicanimation/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/dynamicanimation/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/legacy/coreutils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/legacy/coreutils/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/loader/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/loader/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/swiperefreshlayout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/swiperefreshlayout/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/transition/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/transition/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/vectordrawable/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/vectordrawable/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/vectordrawable/animated/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/vectordrawable/animated/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/viewpager/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/viewpager/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/viewpager2/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/androidx/viewpager2/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/com/bumptech/glide/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/com/bumptech/glide/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/com/companyname/autobid24/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/com/companyname/autobid24/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/com/google/android/material/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/com/google/android/material/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/com/microsoft/maui/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/src/com/microsoft/maui/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/typemaps.arm64-v8a.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/typemaps.arm64-v8a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/typemaps.armeabi-v7a.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/typemaps.armeabi-v7a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/typemaps.x86.ll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/android/typemaps.x86.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/app_shared_libraries/arm64-v8a/libxamarin-app.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/app_shared_libraries/armeabi-v7a/libxamarin-app.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/app_shared_libraries/x86/libxamarin-app.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/app_shared_libraries/x86_64/libxamarin-app.so" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/app_shared_libraries/x86_64/libxamarin-app.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/build.props" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/build.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/buildid.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/buildid.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/devices.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/devices.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/libraryprojectimports.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/libraryprojectimports.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/101/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/101/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/102/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/102/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/103/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/103/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/104/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/104/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/105/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/105/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/106/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/106/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/108/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/108/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/109/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/109/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/110/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/110/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/111/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/111/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/114/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/114/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/116/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/116/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/117/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/117/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/120/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/120/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/121/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/121/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/123/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/123/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/125/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/125/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/126/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/126/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/127/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/127/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/128/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/128/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/129/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/129/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/130/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/130/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/131/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/131/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/132/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/132/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/133/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/133/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/134/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/134/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/135/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/135/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/136/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/136/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/137/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/137/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/138/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/138/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/139/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/139/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/140/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/140/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/141/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/141/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/142/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/142/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/143/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/143/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/144/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/144/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/145/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/145/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/146/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/146/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/148/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/148/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/150/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/150/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/153/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/153/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/154/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/154/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/155/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/155/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/156/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/156/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/157/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/157/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/91/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/91/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/92/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/92/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/93/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/93/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/94/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/94/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/95/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/95/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/97/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/97/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/98/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/lp/98/jl/res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/mauiimage.inputs" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/mauiimage.inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/resizetizer/2E90E89EAD89A570-files.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/resizetizer/2E90E89EAD89A570-files.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/resolvedassemblies.hash" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-android/resolvedassemblies.hash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/Autobid24.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/mauiimage.inputs" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/mauiimage.inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/ref/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/ref/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/refint/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-ios/iossimulator-x64/refint/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Autobid24.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/mauiimage.inputs" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/mauiimage.inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/ref/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/ref/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/refint/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/refint/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Autobid24.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Platforms/Windows/App.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Platforms/Windows/App.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/Platforms/Windows/App.g.cs.backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/XamlSaveStateFile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/XamlSaveStateFile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/XamlTypeInfo.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/XamlTypeInfo.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/XamlTypeInfo.g.cs.backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/filtered.layout.resfiles" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/filtered.layout.resfiles" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/filtered.layout.resfiles.intermediate" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/filtered.layout.resfiles.intermediate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/input.json" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/input.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/intermediatexaml/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/intermediatexaml/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/intermediatexaml/Autobid24.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/intermediatexaml/Autobid24.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/mauiimage.inputs" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/mauiimage.inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/ref/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/ref/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/refint/Autobid24.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/refint/Autobid24.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/unfiltered.layout.resfiles" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/unfiltered.layout.resfiles" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/unfiltered.layout.resfiles.intermediate" beforeDir="false" afterPath="$PROJECT_DIR$/Autobid24/obj/Debug/net8.0-windows10.0.19041.0/win10-x64/unfiltered.layout.resfiles.intermediate" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +254,12 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Desktop/Cars.xaml.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -37,28 +275,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Xamarin.Android.Autobid24.executor": "Debug",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Xamarin.Android.Autobid24.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\moritz.henzi.IN-MH\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\moritz.henzi.IN-MH\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\moritz.henzi.IN-MH\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\moritz.henzi.IN-MH\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\moritz.henzi.IN-MH\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\moritz.henzi.IN-MH\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Xamarin.Android.Autobid24">
     <configuration name="Autobid24" type="UwpProject" factoryName="UWP">
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Autobid24/Autobid24.csproj" />
@@ -109,6 +348,13 @@
       <workItem from="1702995809275" duration="2207000" />
       <workItem from="1703158673950" duration="298000" />
       <workItem from="1703166699728" duration="881000" />
+      <workItem from="1704697082496" duration="17822000" />
+      <workItem from="1704784210351" duration="8976000" />
+      <workItem from="1704799977103" duration="7000" />
+      <workItem from="1704807732773" duration="1526000" />
+      <workItem from="1704809276389" duration="4615000" />
+      <workItem from="1704973857205" duration="4176000" />
+      <workItem from="1705044057566" duration="2529000" />
     </task>
     <servers />
   </component>

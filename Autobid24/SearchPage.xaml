@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Autobid24.SearchPage">
+    <ContentPage.Content>
+        
+        <VerticalStackLayout Margin="0" Padding="0" >
+            
+            
+            <StackLayout class="navbar" Orientation="Horizontal" HorizontalOptions="Center" >
+
+                <!-- Logo -->
+                <ImageButton Source="autobidlogo.png" HeightRequest="60" WidthRequest="60" Margin="5,10, 0,10" Clicked="OnHomeClicked"/>
+
+                <!-- Suche -->
+                <Button Text="Suche" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" />
+
+                <!-- Verkaufen -->
+                <Button Text="Verkaufen" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnVerkaufClicked"/>
+
+                <!-- Account -->
+                <Button Text="Account" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White"/>
+                
+                <Button Text="Über uns" Margin="5,10, 0,10" TextColor="Black" BackgroundColor="White" Clicked="OnUnsClicked" />
+                
+            </StackLayout>
+            <Line X1="0"
+                  Y1="0"
+                  X2="420"
+                  Y2="0"
+                  Stroke="black" />
+            
+            <Image Source="autobidlogo.png" WidthRequest="250" Margin="30" HorizontalOptions="Center"/>
+            
+            <Label Text="Marke, Modell, Version" HorizontalOptions="Center" FontAttributes="Bold" FontSize="20" Margin="10"/>
+            
+            <VerticalStackLayout >
+                    <VerticalStackLayout Margin="50, 5">
+                        <VerticalStackLayout Margin="0,0,0,25">
+                            <Label Text="Marke"/>
+                            <Picker Title="alle" ><Picker.ItemsSource>
+                                <x:Array Type="{x:Type x:String}">
+                                    <x:String>AC</x:String>
+                                    <x:String>ACURA</x:String>
+                                    <x:String>ADLER</x:String>
+                                    <x:String>ADR</x:String>
+                                    <x:String>AERO</x:String>
+                                    <x:String>AESTEC</x:String>
+                                    <x:String>AGM</x:String>
+                                    <x:String>BENTLY</x:String>
+                                    <x:String>BUGATTI</x:String>
+                                    <x:String>BMW</x:String>
+                                    <x:String>CHEVROLET</x:String>
+                                    <x:String>Dacia</x:String>
+                                </x:Array>
+                            </Picker.ItemsSource></Picker>
+                        </VerticalStackLayout>
+                        <VerticalStackLayout Margin="0,0,0,25">
+                            <Label Text="Modell"/>
+                            <Picker Title="alle"><Picker.ItemsSource>
+                                <x:Array Type="{x:Type x:String}">
+                                    <x:String>1 Series</x:String>
+                                    <x:String>2 Series</x:String>
+                                    <x:String>3 Series</x:String>
+                                    <x:String>4 Series</x:String>
+                                    <x:String>5 Series</x:String>
+                                    <x:String>6 Series</x:String>
+                                    <x:String>7 Series</x:String>
+                                    <x:String>8 Series</x:String>
+                                    <x:String>X1</x:String>
+                                    <x:String>X2</x:String>
+                                    <x:String>X3</x:String>
+                                    <x:String>X4</x:String>
+                                </x:Array>
+                            </Picker.ItemsSource></Picker>
+                        </VerticalStackLayout>
+                        <VerticalStackLayout Margin="0,0,0,25">
+                            <Label Text="Version"/>
+                            <Entry Placeholder="alle"/>
+                        </VerticalStackLayout>
+                        <Label Text="Fahrzeugdaten" HorizontalOptions="Center" FontAttributes="Bold" FontSize="20" Margin="0,0,0, 20"/>
+                        <VerticalStackLayout Margin="0,0,0,25">
+                            <Label x:Name="displayLabel"
+                                   Text="{Binding Source={x:Reference slider},
+                          Path=Value,
+                          StringFormat='Kilometer bis {0:F0}'}" />
+                            <Slider x:Name="slider"
+                                    Maximum="200000"
+                                    ValueChanged="Slider_ValueChanged" />
+                        </VerticalStackLayout>
+                        <VerticalStackLayout Margin="0,0,0,15">
+                            <Label x:Name="displayLabel1"
+                                   Text="{Binding Source={x:Reference slider1},
+                          Path=Value,
+                          StringFormat='Preis bis {0:F0}'}" />
+                            <Slider x:Name="slider1"
+                                    Maximum="500000"
+                                    ValueChanged="Slider_ValueChanged1"/>
+                        </VerticalStackLayout>
+                        <VerticalStackLayout Margin="0,0,0,25">
+                            <HorizontalStackLayout>
+                                <Label Text="Ab MFK" VerticalOptions="Center" Margin="0,0,10,0"></Label>
+                                <Switch></Switch>
+                            </HorizontalStackLayout>
+                        </VerticalStackLayout>
+                        <Button Text="168424 Autos Anzeigen" BackgroundColor="Yellow" TextColor="Black" Clicked="OnAnzeigenClicked"></Button>
+                    </VerticalStackLayout>
+            </VerticalStackLayout>
+            
+           
+        </VerticalStackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

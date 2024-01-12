@@ -171,3 +171,15 @@ D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x6
 D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Autobid24.sourcelink.json
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\autobidlogo.scale-100.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mercedes.scale-100.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fordlogo.scale-100.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\audilogo.scale-100.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bmw1bild.scale-100.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bmw4bild.scale-100.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bmw3bild.scale-100.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bmw2bild.scale-100.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bmwbilder.scale-100.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bmwbild.scale-100.png
+D:\Maui_Schule\Autobid24\Autobid24\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bmwdetails.scale-100.PNG
